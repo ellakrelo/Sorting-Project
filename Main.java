@@ -1,8 +1,11 @@
-public class Main {
+import java. util.Scanner;
 
-    public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World");
+public class Main 
+{
+    public static void main(String[] args) 
+    {
+        
+        
     }
 
 }
